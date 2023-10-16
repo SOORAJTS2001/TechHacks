@@ -16,7 +16,7 @@ Uncover the contents of the `key` file, byte by byte. Use this information to un
 
 ### Step 2: Unlock the "Surprise Inside"
 
-Apply the knowledge obtained from the `key` file to unlock the `lock`. Discover the hidden "Surprise inside."
+Apply the knowledge obtained from the `key` file to unlock the `lock`. Discover the hidden "Surprise inside." (You may have to use some 'tools')
 
 ### Step 3: Decrypt the Image
 
