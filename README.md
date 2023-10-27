@@ -25,6 +25,6 @@ Investigate the `mysterious_lizza.png` image. Could it contain "Snake's secrets 
 ### Step 4: Combine the Flags
 
 Once you've successfully retrieved the flags from the `lock.meow` and the `monalisa.png` image, combine them into a single message.
-Once you have done that give that as a url endpoint to :
+Once you have done that give that as a url endpoint to :https://e5bc-136-226-254-165.ngrok-free.app/key/
 
 Have fun uncovering the hidden secrets!
